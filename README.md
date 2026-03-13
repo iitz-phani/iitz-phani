@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Leading AI-driven product initiatives, blending UI/UX design thinking with Agile project execution.<br><br>👯 I’m looking to collaborate on<br>Digital product design, PMO transformation projects, and AI-enabled workflow systems.<br><br>🤝 I’m looking for help with<br>Scaling design systems, improving stakeholder alignment frameworks, and optimizing delivery governance.<br><br>🌱 I’m currently learning<br>Advanced product strategy, design-led development, and AI integration into project delivery workflows.<br><br>💬 Ask me about<br>Agile & Scrum execution, stakeholder management, UI/UX thinking for PMs, and building structured delivery systems.<br><br>⚡ Fun fact<br>I treat project dashboards like design systems — clean, structured, and outcome-driven.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phani-bozzam/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@phani.bozzam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phani.bozzam@gmail.com) 
 
@@ -11,11 +10,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=iitz-phani&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iitz.phani) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iitzphani) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iitz.phani) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iitzphani)
